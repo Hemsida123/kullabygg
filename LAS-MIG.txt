@@ -1,0 +1,47 @@
+KULLABYGG — NY WEBBPLATS
+
+Ladda upp alla filer och mappar tillsammans. Indexfilen behöver styles.css,
+script.js och assets-mappen. Undersidorna ligger i egna mappar med index.html.
+Ingen installation, databas eller byggprocess behövs för att använda sidan.
+
+GITHUB PAGES
+Lägg innehållet i paketet i repots rot. Aktivera Pages under Settings > Pages.
+De relativa länkarna fungerar även när sidan ligger under ett reponamn.
+
+WEBBHOTELL
+Lägg innehållet i webbplatsens public_html-mapp. Behåll mappstrukturen.
+Sidan ersätter inte originalwebbplatsen förrän du själv publicerar filerna där.
+
+KONTAKT
+070-359 53 60 / info@kullabygg.se / Marcus Zweigel.
+Kontaktfälten öppnar ett förberett mejl i besökarens mejlapp.
+De skickar inte automatiskt och har ingen server eller formulärdatabas.
+Telefon- och vanliga mejlknappar fungerar oberoende av kontaktfälten.
+
+FÖRE SKARP PUBLICERING
+Bekräfta aktuell kontaktperson, telefon, företagsort och bolagsuppgifter.
+Originalsidan har olika bolagsuppgifter. Organisationsnummer och aktuell
+besöksadress behöver därför bekräftas; de återges inte i denna version.
+Det finns inga uppfunna kundrecensioner, betyg eller certifieringar.
+Anpassa integritetstexten om analysverktyg, formulärtjänst eller cookies läggs till.
+
+SEO
+Unika sidtitlar och beskrivningar, synligt innehåll i HTML, en H1 per sida,
+alt-texter, strukturerad data, sitemap.xml och robots.txt ingår.
+I GitHub-paketet pekar canonical, delningslänkar och sitemap på den avsedda
+slutdomänen https://www.kullabygg.se. Ändra domänen om slutadressen blir en annan.
+Skicka sitemap.xml till Google Search Console efter skarp publicering.
+SEO-grunden kan hjälpa sökmotorer att förstå innehållet men garanterar inte placering.
+
+BILDER
+39 projektbilder och befintlig logotyp från kullabygg.se.
+Projektbilderna är komprimerade till WebP med mindre varianter för mobilen.
+Startsidan har en inspirationsbild av Clay Banks från Unsplash:
+https://unsplash.com/photos/modern-kitchen-with-wood-cabinets-xuq5LucyvNM
+Den är inte ett referensprojekt från Kullabygg. Bildkällor finns även på sidan.
+Säkerställ att företaget har rätt att återanvända originalets projektbilder.
+Typsnitt: Manrope, SIL Open Font License.
+
+INNEHÅLL
+Startsida, om oss, tjänster, badrum, kök, tillbyggnad/renovering,
+referensgalleri, kontakt, integritet, bildkällor och felsida.
